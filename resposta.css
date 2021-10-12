@@ -1,0 +1,14 @@
+#resposta {
+    height: 100vh;
+}
+
+@media screen and (max-width:768px) {
+    #resposta {
+        height: 170vh;
+    }
+
+    .midias-sociais-contato {
+        display: flex;
+        margin: auto;
+    }
+}

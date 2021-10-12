@@ -1,0 +1,14 @@
+.container-principal-embreve {
+    height: 100vh;
+    background-image: url(./assets/img/Bandeira-2.jpg);
+    background-color: var(--bege);
+
+}
+
+.cabecalho-embreve h1 {
+    padding-top: 5vh;
+    font-family: var(--fonte-titulo);
+    font-size: 45px;
+    color: black;
+    text-align: center;
+}
